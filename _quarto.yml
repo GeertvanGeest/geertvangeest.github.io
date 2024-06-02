@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  twitter-card: true
+  open-graph: true
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    search: true
+    collapse-below: lg
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Freelance"
+        href: freelance.qmd
+      - text: "Publications"
+        href: publications.md
+    right:
+      - icon: github
+        href: "https://github.com/geertvangeest"
+      - icon: twitter
+        href: "https://twitter.com/geertvangeest"
+      - icon: linkedin
+        href: "www.linkedin.com/in/geert-van-geest-47938822"
+
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+
+include-in-header:
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+
+
+
