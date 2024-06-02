@@ -1,5 +1,6 @@
 project:
   type: website
+  title: 'Geert van Geest'
 
 website:
   twitter-card: true
@@ -30,6 +31,7 @@ format:
     theme: 
       - cosmo
       - custom.scss
+    css: styles.css
 
 include-in-header:
   text: |
