@@ -15,7 +15,7 @@ website:
       - text: "Freelance"
         href: freelance.qmd
       - text: "Publications"
-        href: publications.md
+        href: publications.qmd
     right:
       - icon: github
         href: "https://github.com/geertvangeest"
