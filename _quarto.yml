@@ -6,6 +6,7 @@ website:
   twitter-card: true
   open-graph: true
   repo-actions: [issue]
+  favicon: 'img/pink_circle.png'
   navbar:
     background: primary
     search: true
