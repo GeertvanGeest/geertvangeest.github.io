@@ -21,7 +21,7 @@ At the [IBU](https://www.bioinformatics.unibe.ch/) I work in close collaboration
 
 ### My work at SIB
 
-At the [SIB Training group](https://www.sib.swiss/training-group) I teach courses on next generation sequencing (NGS), variant analysis, single cell transcriptomics and reproducible science, find all my courses and their material at [Courses](courses.qmd). At SIB I am also involved in several project related to FAIR training. For example, I co-lead the [FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/) initiative and I am the creator of [Glittr.org](https://glittr.org), which was recently nominated as [SIB Remarkable Output](https://www.sib.swiss/news/discover-the-sib-remarkable-outputs-2023). 
+At the [SIB Training group](https://www.sib.swiss/training-group) I teach courses on next generation sequencing (NGS), variant analysis, single cell transcriptomics and reproducible science. Find all my courses and their material at [Courses](courses.qmd). At SIB I am also involved in several project related to FAIR training. For example, I co-lead the [FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/) initiative and I am the creator of [Glittr.org](https://glittr.org), which was recently nominated as [SIB Remarkable Output](https://www.sib.swiss/news/discover-the-sib-remarkable-outputs-2023). 
 
 ### Previous experience
 
