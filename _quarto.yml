@@ -18,6 +18,10 @@ website:
         href: freelance.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Courses"
+        href: courses.qmd
+      - text: "CV"
+        href: cv.qmd
     right:
       - icon: github
         href: "https://github.com/geertvangeest"

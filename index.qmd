@@ -1,8 +1,8 @@
 
 
-# <span style='color:#ff2a7fff'>Nice to meet you</span><br>I am Geert van Geest, bioinformatics analyst and educator
+# <span style='color:#ff2a7fff'>Nice to meet you</span><br>Geert van Geest<br>Bioinformatics analyst and educator
 
-### Are you looking for collaboration on projects related to bioinformatics or education? 
+### Would you like to collaborate on projects related to bioinformatics or education? 
 
 <br>
 
@@ -11,6 +11,18 @@
 
 <br>
 
-Since 2020 I am working as a bioinformatician at the [Interfaculty Bioinformatics Unit](https://www.bioinformatics.unibe.ch/) in Bern, and as a bioinformatics trainer at the [SIB Swiss Institute of Bioinformatics](https://www.sib.swiss/training). You might also know me from [glittr.org](https://glittr.org) or my involvement in several initiatives related to training at [ELIXIR](https://elixir-europe.org/). Every once in a while I also pick up projects at a [freelance](freelance.qmd) basis. 
+Since 2020 I am working as a bioinformatician at the [Interfaculty Bioinformatics Unit](https://www.bioinformatics.unibe.ch/) in Bern, and as a bioinformatics trainer at the [SIB Swiss Institute of Bioinformatics](https://www.sib.swiss). You might also know me from [glittr.org](https://glittr.org) or my involvement in several initiatives related to training at [ELIXIR](https://elixir-europe.org/). Every once in a while I also pick up projects at a [freelance](freelance.qmd) basis. 
 
 ![](img/IBU_Foto_GvG2_lowdef.jpg){width=250}
+
+### My work at Bern University
+
+At the [IBU](https://www.bioinformatics.unibe.ch/) I work in close collaboration with the Veterinary science faculty [Vetsuisse](https://www.vetsuisse.unibe.ch/) to support several projects. These projects are related to dog cancer variant analysis, single cell transcriptomics and spatial transcriptomics. They are all projects in which we apply cutting-edge techniques - that are often applied to model organisms like mouse and human - to non-model organisms, like dogs, cats and cows. 
+
+### My work at SIB
+
+At the [SIB Training group](https://www.sib.swiss/training-group) I teach courses on next generation sequencing (NGS), variant analysis, single cell transcriptomics and reproducible science, find all my courses and their material at [Courses](courses.qmd). At SIB I am also involved in several project related to FAIR training. For example, I co-lead the [FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/) initiative and I am the creator of [Glittr.org](https://glittr.org), which was recently nominated as [SIB Remarkable Output](https://www.sib.swiss/news/discover-the-sib-remarkable-outputs-2023). 
+
+### Previous experience
+
+Before I moved to Bern in 2020, I did my masters and PhD at Wageningen University in the [Plant Breeding](https://www.wur.nl/en/research-results/research-institutes/plant-research/plant-breeding.htm) research group. There, I developed tools for molecular breeding in chrysanthemum. Amongst others, I co-developed the package [polymapR](https://cran.r-project.org/web/packages/polymapR/index.html), a software package to create genetic linkage maps from outcrossing polyploids. After my PhD, I worked on molecular marker development for [Deliflor Chrysanten B.V.](https://deliflor.nl) a company specialized in developing new varieties of chrysanthemum. 
