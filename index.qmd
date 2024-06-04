@@ -2,7 +2,7 @@
 
 # <span style='color:#ff2a7fff'>Nice to meet you</span><br>Geert van Geest<br>Bioinformatics analyst and educator
 
-### Would you like to collaborate on projects related to bioinformatics or education? 
+### Would you like to collaborate on projects<br> related to bioinformatics or education? 
 
 <br>
 
@@ -25,4 +25,4 @@ At the [SIB Training group](https://www.sib.swiss/training-group) I teach course
 
 ### Previous experience
 
-Before I moved to Bern in 2020, I did my masters and PhD at Wageningen University in the [Plant Breeding](https://www.wur.nl/en/research-results/research-institutes/plant-research/plant-breeding.htm) research group. There, I developed tools for molecular breeding in chrysanthemum. Amongst others, I co-developed the package [polymapR](https://cran.r-project.org/web/packages/polymapR/index.html), a software package to create genetic linkage maps from outcrossing polyploids. After my PhD, I worked on molecular marker development for [Deliflor Chrysanten B.V.](https://deliflor.nl) a company specialized in developing new varieties of chrysanthemum. 
+Before I moved to Bern in 2020, I did my masters and PhD at Wageningen University at the [Plant Breeding](https://www.wur.nl/en/research-results/research-institutes/plant-research/plant-breeding.htm) research group. There, I developed tools for molecular breeding in chrysanthemum. Amongst others, I co-developed the package [polymapR](https://cran.r-project.org/web/packages/polymapR/index.html), a software package to create genetic linkage maps of outcrossing polyploids. After my PhD, I worked on molecular marker development for [Deliflor Chrysanten B.V.](https://deliflor.nl) a company specialized in developing new varieties of chrysanthemum. 
