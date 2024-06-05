@@ -5,6 +5,7 @@
 #| output: false
 library(httr2)
 library(DT)
+library(fontawesome)
 ```
 
 ```{r}
@@ -14,12 +15,32 @@ parsed <- request("https://glittr.org/api/repositories") |>
 ```
 
 ```{r}
+slug_to_link <- function(slug){
+  link <- paste0("https://github.com/", slug)
+  html <- sprintf('<a href="%s" target="_blank">%s</a>',
+                  link, slug)
+  return(html)
+}
+
+# pretty format stargazers
+format_stargazers <- function(stargazers_count){
+  # sort_string <- formatC(stargazers_count, width = 12,
+  #                        format = "d", flag = "0")
+  star_icon <- fa("star")# icon("star", lib = "glyphicon", style="color:#f1c40f")
+  stargazers_string <- paste(# "<!--", sort_string, "-->",
+                             as.character(star_icon),
+                             stargazers_count)
+  return(stargazers_string)
+}
+```
+
+
+```{r}
 # extract relevant items as dataframe
 repo_info_list <- lapply(parsed$data, function(x) data.frame(
   repo = x$name,
   author_name = x$author$name,
-  stargazers = x$stargazers,
-  url = x$url
+  stargazers = x$stargazers
 ))
 
 repo_info <- do.call(rbind, repo_info_list)
@@ -40,8 +61,15 @@ my_repos <- c(
 ```
 
 ```{r}
-my_repo_info <- repo_info[repo_info$repo %in% my_repos, ]
-datatable(my_repo_info, style = "bootstrap", rownames = FALSE)
+repo_info <- repo_info[repo_info$repo %in% my_repos, ]
+
+rownames(repo_info) <- repo_info$repo
+repo_info$repo <- slug_to_link(repo_info$repo)
+repo_info$stargazers <- format_stargazers(repo_info$stargazers)
+
+datatable(repo_info, style = "bootstrap", rownames = FALSE,
+          options = list(dom = 't'),
+          escape = FALSE)
 ```
 
 
