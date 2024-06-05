@@ -1,4 +1,13 @@
+---
+engine: knitr
+---
 
+```{css}
+#| echo: false
+body {
+  text-align: center
+}
+```
 
 # <span style='color:#ff2a7fff'><strong>Nice to meet you</strong></span><br>Geert van Geest<br>Bioinformatics analyst and educator
 

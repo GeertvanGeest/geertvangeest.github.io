@@ -1,1 +1,48 @@
+
 ## Courses I teach and their material
+
+```{r}
+#| output: false
+library(httr2)
+library(DT)
+```
+
+```{r}
+parsed <- request("https://glittr.org/api/repositories") |>
+  req_perform() |>
+  resp_body_json()
+```
+
+```{r}
+# extract relevant items as dataframe
+repo_info_list <- lapply(parsed$data, function(x) data.frame(
+  repo = x$name,
+  author_name = x$author$name,
+  stargazers = x$stargazers,
+  url = x$url
+))
+
+repo_info <- do.call(rbind, repo_info_list)
+```
+
+```{r}
+my_repos <- c(
+  "sib-swiss/single-cell-training",
+  "sib-swiss/ena-seqdata-training",
+  "sib-swiss/containers-introduction-training",
+  "sib-swiss/single-cell-python-training",
+  "sib-swiss/NGS-introduction-training",
+  "sib-swiss/NGS-longreads-training",
+  "sib-swiss/NGS-variants-training",
+  "sib-swiss/containers-snakemake-training",
+  "sib-swiss/reproducible-analysis-training"
+)
+```
+
+```{r}
+my_repo_info <- repo_info[repo_info$repo %in% my_repos, ]
+datatable(my_repo_info, style = "bootstrap", rownames = FALSE)
+```
+
+
+
