@@ -1,7 +1,0 @@
----
-toc: false
----
-
-## Looking for a help?
-
-In addition to my work at UniBe and SIB I helping several companies and institutes with their bioinformatics questions. 
