@@ -46,9 +46,10 @@ Different consultancy projects in bioinformatics and data analysis: pipeline dev
 Project leader of different projects:
 
 -	Development of methods to apply sequencing methods for plant breeding:
-  - Targeted sequencing, like hybrid capture and massive parallel amplicon sequencing
-  - Long-read sequencing for development of reference sequences
-  - Haplotyping in polyploids
+    - Targeted sequencing, like hybrid capture and massive parallel amplicon sequencing
+    - Long-read sequencing for development of reference sequences
+    - Haplotyping in polyploids
+  
 -	Development of web-applications in R Shiny for a wide range of calculations and data visualisations
 -	Several public-private partnerships related to phytopathology, plant physiology, bioinformatics and biotechnology
 
@@ -59,7 +60,7 @@ Project leader of different projects:
 Responsible for several projects and activities:
 
 -	Development of a framework for molecular breeding in hexaploid chrysanthemum, a.o. RNA-seq analysis, variant analysis. 
--	Development of a software package for quantitative genetic analysis in polyploids: (https://cran.r-project.org/web/packages/polymapR/index.html)
+-	Development of a software package for quantitative genetic analysis in polyploids, [polymapR](https://cran.r-project.org/web/packages/polymapR/index.html)
 -	Supervision of 6 MSc students during their thesis projects
 
 ## Education
@@ -71,22 +72,22 @@ Responsible for several projects and activities:
 
 PhD Bioinformatics and quantitative genetics. 
 
-Title thesis: Disentangling hexaploid genetics: towards DNA-informed breeding for postharvest performance in chrysanthemum.
+Title thesis: [Disentangling hexaploid genetics: towards DNA-informed breeding for postharvest performance in chrysanthemum](https://research.wur.nl/en/publications/disentangling-hexaploid-genetics-towards-dna-informed-breeding-fo).
 
 #### September 2010 – August 2012
 
 Master of Science (MSc) Plant Breeding and Genetic Resources/Greenhouse horticulture.
 
-Title thesis: Association of novel candidate genes with tuber quality traits in Solanum tuberosum (performed at the Max Planck institute for Plant Breeding Research in Cologne, Germany)
+Title thesis: [Association of novel candidate genes with tuber quality traits in Solanum tuberosum](https://edepot.wur.nl/235435) (performed at the Max Planck institute for Plant Breeding Research in Cologne, Germany)
 
 ## Computer Skills
 
 -	Languages and frameworks: 
-  -	R: a.o. tidyverse, R Shiny, R packaging, caret
-  -	Python: a.o. pysam, pandas, OOP
-  -	Git and CI (gitlab-ci and GitHub actions)
-  -	Pipeline development: snakemake and nextflow
-  -	Container development: docker & singularity
+    -	R: a.o. tidyverse, R Shiny, R packaging, caret
+    -	Python: a.o. pysam, pandas, OOP
+    -	Git and CI (gitlab-ci and GitHub actions)
+    -	Pipeline development: snakemake and nextflow
+    -	Container development: docker & singularity
 -	High performance computing, cloud computing (AWS), terraform
 
 ## Languages
