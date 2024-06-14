@@ -26,7 +26,7 @@ Since 2020 I am working as a bioinformatician at the [Interfaculty Bioinformatic
 
 ### My work at Bern University
 
-At the [IBU](https://www.bioinformatics.unibe.ch/) I work in close collaboration with the Veterinary science faculty [Vetsuisse](https://www.vetsuisse.unibe.ch/) to support several projects. These projects are related to dog cancer variant analysis, single cell transcriptomics and spatial transcriptomics. They are all projects in which we apply cutting-edge techniques - that are often applied to model organisms like mouse and human - to non-model organisms, like dogs, cats and cows. 
+At the [IBU](https://www.bioinformatics.unibe.ch/) I work in close collaboration with the Veterinary science faculty [Vetsuisse](https://www.vetsuisse.unibe.ch/) to support several projects. These projects are related to dog cancer variant analysis, single cell transcriptomics and spatial transcriptomics. They are all projects in which we apply cutting-edge techniques to non-model organisms, like dogs, cats and cows. 
 
 ### My work at SIB
 

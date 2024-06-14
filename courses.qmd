@@ -1,20 +1,27 @@
 
 ## Courses I teach and their material
 
+Here are the courses I teach in a table. Of course they are all on [glittr.org](https://glittr.org)!
+
+Are you interested in (more) SIB courses, check out the [course announcement page](https://www.sib.swiss/training/upcoming-training-courses).
+
 ```{r}
 #| output: false
+#| echo: false
 library(httr2)
 library(DT)
 library(fontawesome)
 ```
 
 ```{r}
+#| echo: false
 parsed <- request("https://glittr.org/api/repositories") |>
   req_perform() |>
   resp_body_json()
 ```
 
 ```{r}
+#| echo: false
 slug_to_link <- function(slug){
   link <- paste0("https://github.com/", slug)
   html <- sprintf('<a href="%s" target="_blank">%s</a>',
@@ -36,6 +43,7 @@ format_stargazers <- function(stargazers_count){
 
 
 ```{r}
+#| echo: false
 # extract relevant items as dataframe
 repo_info_list <- lapply(parsed$data, function(x) data.frame(
   repo = x$name,
@@ -47,6 +55,7 @@ repo_info <- do.call(rbind, repo_info_list)
 ```
 
 ```{r}
+#| echo: false
 my_repos <- c(
   "sib-swiss/single-cell-training",
   "sib-swiss/ena-seqdata-training",
@@ -61,15 +70,19 @@ my_repos <- c(
 ```
 
 ```{r}
+#| echo: false
 repo_info <- repo_info[repo_info$repo %in% my_repos, ]
 
 rownames(repo_info) <- repo_info$repo
 repo_info$repo <- slug_to_link(repo_info$repo)
 repo_info$stargazers <- format_stargazers(repo_info$stargazers)
 
+colnames(repo_info)[2] <- "organisation"
+
 datatable(repo_info, style = "bootstrap", rownames = FALSE,
           options = list(dom = 't'),
-          escape = FALSE)
+          escape = FALSE) |>
+  formatStyle(columns = "stargazers", color="gold")
 ```
 
 

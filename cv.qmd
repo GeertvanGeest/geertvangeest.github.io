@@ -1,1 +1,96 @@
 # My Curriculum vitae
+
+Get a full idea of my CV through my [linkedin profile](https://www.linkedin.com/in/geert-van-geest-47938822).  
+
+## Work experience
+
+### Staff scientist at Universität Bern (50%)
+
+#### July 2020 – Current
+
+Wide range of bioinformatics projects, including (but not limited to):
+
+-	Bioinformatic pipeline development
+-	Cancer genomics
+-	Oligo design
+-	Single cell RNA-sequencing
+-	Germline variant analysis
+-	Long read sequencing analysis
+
+Strong involvement of customer in projects, working according to agile principles. 
+
+### Trainer at SIB – Swiss Institute of Bioinformatics (50%)
+
+#### July 2020 – Current 
+
+Responsible for design and teaching of courses related to omics and reproducible analysis:
+
+-	Variant analysis
+-	Single cell transcriptomics
+- Spatial transcriptomics
+-	Docker and singularity
+-	Long read sequencing analysis
+
+Promotor of Open and FAIR in data and training. Amongst others by using and promoting the use of cloud computing (AWS), containerization and git for development of training environments. Initiator and developer of [glittr.org](https://glittr.org).
+
+### Consultant (freelance)
+
+#### January 2021 – Current
+
+Different consultancy projects in bioinformatics and data analysis: pipeline development, long read sequencing analysis and oligo design. 
+
+### Marker and trait development at Deliflor Chrysanten B.V.
+
+#### September 2017 – June 2020
+
+Project leader of different projects:
+
+-	Development of methods to apply sequencing methods for plant breeding:
+  - Targeted sequencing, like hybrid capture and massive parallel amplicon sequencing
+  - Long-read sequencing for development of reference sequences
+  - Haplotyping in polyploids
+-	Development of web-applications in R Shiny for a wide range of calculations and data visualisations
+-	Several public-private partnerships related to phytopathology, plant physiology, bioinformatics and biotechnology
+
+### Researcher at Deliflor Chrysanten B.V. & PhD candidate at Wageningen UR
+
+#### September 2012 – September 2017
+
+Responsible for several projects and activities:
+
+-	Development of a framework for molecular breeding in hexaploid chrysanthemum, a.o. RNA-seq analysis, variant analysis. 
+-	Development of a software package for quantitative genetic analysis in polyploids: (https://cran.r-project.org/web/packages/polymapR/index.html)
+-	Supervision of 6 MSc students during their thesis projects
+
+## Education
+
+### Wageningen University
+
+#### January 2013 - June 2017 
+
+
+PhD Bioinformatics and quantitative genetics. 
+
+Title thesis: Disentangling hexaploid genetics: towards DNA-informed breeding for postharvest performance in chrysanthemum.
+
+#### September 2010 – August 2012
+
+Master of Science (MSc) Plant Breeding and Genetic Resources/Greenhouse horticulture.
+
+Title thesis: Association of novel candidate genes with tuber quality traits in Solanum tuberosum (performed at the Max Planck institute for Plant Breeding Research in Cologne, Germany)
+
+## Computer Skills
+
+-	Languages and frameworks: 
+  -	R: a.o. tidyverse, R Shiny, R packaging, caret
+  -	Python: a.o. pysam, pandas, OOP
+  -	Git and CI (gitlab-ci and GitHub actions)
+  -	Pipeline development: snakemake and nextflow
+  -	Container development: docker & singularity
+-	High performance computing, cloud computing (AWS), terraform
+
+## Languages
+
+-	Dutch: mother tongue
+-	English: good professional level
+-	German: good reading, listening and basic speaking (B1)
