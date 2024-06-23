@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "freelance.html",
-    "href": "freelance.html",
-    "title": "Geert van Geest",
-    "section": "",
-    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
-  },
-  {
-    "objectID": "freelance.html#looking-for-help",
-    "href": "freelance.html#looking-for-help",
-    "title": "Geert van Geest",
-    "section": "",
-    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
-  },
-  {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Geert van Geest",
-    "section": "",
-    "text": "Here are the courses I teach in a table. Of course they are all on glittr.org!\nAre you interested in (more) SIB courses, check out the course announcement page."
-  },
-  {
-    "objectID": "courses.html#courses-i-teach-and-their-material",
-    "href": "courses.html#courses-i-teach-and-their-material",
-    "title": "Geert van Geest",
-    "section": "",
-    "text": "Here are the courses I teach in a table. Of course they are all on glittr.org!\nAre you interested in (more) SIB courses, check out the course announcement page."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nice to meet youGeert van GeestBioinformatics analyst and educator",
-    "section": "",
-    "text": "Nice to meet youGeert van GeestBioinformatics analyst and educator\n\nWould you like to collaborate on projects related to bioinformatics or education?\n\nLet’s get in touch\n\nSince 2020 I am working as a bioinformatician at the Interfaculty Bioinformatics Unit in Bern, and as a bioinformatics trainer at the SIB Swiss Institute of Bioinformatics. You might also know me from glittr.org or my involvement in several initiatives related to training at ELIXIR. Every once in a while I also pick up projects at a freelance basis.\n\n\n\nMy work at Bern University\nAt the IBU I work in close collaboration with the Veterinary science faculty Vetsuisse to support several projects. These projects are related to dog cancer variant analysis, single cell transcriptomics and spatial transcriptomics. They are all projects in which we apply cutting-edge techniques to non-model organisms, like dogs, cats and cows.\n\n\nMy work at SIB\nAt the SIB Training group I teach courses on next generation sequencing (NGS), variant analysis, single cell transcriptomics and reproducible science. Find all my courses and their material at Courses. At SIB I am also involved in several project related to FAIR training. For example, I co-lead the FAIR training handbook initiative and I am the creator of Glittr.org, which was recently nominated as SIB Remarkable Output.\n\n\nPrevious experience\nBefore I moved to Bern in 2020, I did my masters and PhD at Wageningen University at the Plant Breeding research group. There, I developed tools for molecular breeding in chrysanthemum. Amongst others, I co-developed the package polymapR, a software package to create genetic linkage maps of outcrossing polyploids. After my PhD, I worked on molecular marker development for Deliflor Chrysanten B.V. a company specialized in developing new varieties of chrysanthemum."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "My Curriculum vitae",
@@ -77,6 +35,34 @@
     "text": "Dutch: mother tongue\nEnglish: good professional level\nGerman: good reading, listening and basic speaking (B1)"
   },
   {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Geert van Geest",
+    "section": "",
+    "text": "Here are the courses I teach in a table. Of course they are all on glittr.org!\nAre you interested in (more) SIB courses, check out the course announcement page."
+  },
+  {
+    "objectID": "courses.html#courses-i-teach-and-their-material",
+    "href": "courses.html#courses-i-teach-and-their-material",
+    "title": "Geert van Geest",
+    "section": "",
+    "text": "Here are the courses I teach in a table. Of course they are all on glittr.org!\nAre you interested in (more) SIB courses, check out the course announcement page."
+  },
+  {
+    "objectID": "freelance.html",
+    "href": "freelance.html",
+    "title": "Geert van Geest",
+    "section": "",
+    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
+  },
+  {
+    "objectID": "freelance.html#looking-for-help",
+    "href": "freelance.html#looking-for-help",
+    "title": "Geert van Geest",
+    "section": "",
+    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Geert van Geest",
@@ -89,5 +75,19 @@
     "title": "Geert van Geest",
     "section": "",
     "text": "Get a complete overview on my Google scholar profile or ORCiD.\nGeest, Geert van, Peter M Bourke, Roeland E Voorrips, Agnieszka Marasek-Ciolakowska, Yanlin Liao, Aike Post, Uulke van Meeteren, Richard GF Visser, Chris Maliepaard, and Paul Arens. An Ultra-Dense Integrated Linkage Map for Hexaploid Chrysanthemum Enables Multi-Allelic QTL Analysis. Theoretical and Applied Genetics 130 (2017): 2527–41.\nBourke, Peter M, Geert Van Geest, Roeland E Voorrips, Johannes Jansen, Twan Kranenburg, Arwa Shahin, Richard GF Visser, Paul Arens, Marinus JM Smulders, and Chris Maliepaard. polymapR—Linkage Analysis and Genetic Map Construction from F1 Populations of Outcrossing Polyploids. Bioinformatics 34, no. 20 (2018): 3496–3502.\nGeest, Geert van, Roeland E Voorrips, Danny Esselink, Aike Post, Richard GF Visser, and Paul Arens. Conclusive Evidence for Hexasomic Inheritance in Chrysanthemum Based on Analysis of a 183 k SNP Array. BMC Genomics 18 (2017): 1–12.\nBarreto de Albuquerque, Juliana, Lukas M Altenburger, Jun Abe, Diego von Werdt, Stefanie Wissmann, Jose Martínez Magdaleno, David Francisco, et al. Microbial Uptake in Oral Mucosa–Draining Lymph Nodes Leads to Rapid Release of Cytotoxic CD8+ T Cells Lacking a Gut-Homing Phenotype. Science Immunology 7, no. 72 (2022): eabf1861.\nDeng, Haibin, Yanyun Gao, Verdiana Trappetti, Damian Hertig, Darya Karatkevich, Tereza Losmanova, Christian Urzi, et al. Targeting Lactate Dehydrogenase B-Dependent Mitochondrial Metabolism Affects Tumor Initiating Cells and Inhibits Tumorigenesis of Non-Small Cell Lung Cancer by Inducing mtDNA Damage. Cellular and Molecular Life Sciences 79, no. 8 (2022): 445.\nWalter, Justin D, Melanie Scherer, Cedric AJ Hutter, Alisa A Garaeva, Iwan Zimmermann, Marianne Wyss, Jan Rheinberger, et al. Biparatopic Sybodies Neutralize SARS-CoV-2 Variants of Concern and Mitigate Drug Resistance. EMBO Reports 23, no. 4 (2022): e54199."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nice to meet youGeert van GeestBioinformatics analyst and educator",
+    "section": "",
+    "text": "Nice to meet youGeert van GeestBioinformatics analyst and educator\n\nWould you like to collaborate on projects related to bioinformatics or education?\n\nLet’s get in touch\n\nSince 2020 I am working as a bioinformatician at the Interfaculty Bioinformatics Unit in Bern, and as a bioinformatics trainer at the SIB Swiss Institute of Bioinformatics. You might also know me from glittr.org or my involvement in several initiatives related to training at ELIXIR. Every once in a while I also pick up projects at a freelance basis.\n\n\n\nMy work at Bern University\nAt the IBU I work in close collaboration with the Veterinary science faculty Vetsuisse to support several projects. These projects are related to dog cancer variant analysis, single cell transcriptomics and spatial transcriptomics. They are all projects in which we apply cutting-edge techniques to non-model organisms, like dogs, cats and cows.\n\n\nMy work at SIB\nAt the SIB Training group I teach courses on next generation sequencing (NGS), variant analysis, single cell transcriptomics and reproducible science. Find all my courses and their material at Courses. At SIB I am also involved in several project related to FAIR training. For example, I co-lead the FAIR training handbook initiative and I am the creator of Glittr.org, which was recently nominated as SIB Remarkable Output.\n\n\nPrevious experience\nBefore I moved to Bern in 2020, I did my masters and PhD at Wageningen University at the Plant Breeding research group. There, I developed tools for molecular breeding in chrysanthemum. Amongst others, I co-developed the package polymapR, a software package to create genetic linkage maps of outcrossing polyploids. After my PhD, I worked on molecular marker development for Deliflor Chrysanten B.V. a company specialized in developing new varieties of chrysanthemum."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
