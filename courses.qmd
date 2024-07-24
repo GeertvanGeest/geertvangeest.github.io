@@ -64,7 +64,8 @@ my_repos <- c(
   "sib-swiss/NGS-longreads-training",
   "sib-swiss/NGS-variants-training",
   "sib-swiss/containers-snakemake-training",
-  "sib-swiss/reproducible-analysis-training"
+  "sib-swiss/reproducible-analysis-training",
+  "sib-swiss/spatial-transcriptomics-training"
 )
 ```
 
