@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "freelance.html",
+    "href": "freelance.html",
+    "title": "Geert van Geest",
+    "section": "",
+    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
+  },
+  {
+    "objectID": "freelance.html#looking-for-help",
+    "href": "freelance.html#looking-for-help",
+    "title": "Geert van Geest",
+    "section": "",
+    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Geert van Geest",
+    "section": "",
+    "text": "Here are the courses I teach in a table. Of course they are all on glittr.org!\nAre you interested in (more) SIB courses, check out the course announcement page."
+  },
+  {
+    "objectID": "courses.html#courses-i-teach-and-their-material",
+    "href": "courses.html#courses-i-teach-and-their-material",
+    "title": "Geert van Geest",
+    "section": "",
+    "text": "Here are the courses I teach in a table. Of course they are all on glittr.org!\nAre you interested in (more) SIB courses, check out the course announcement page."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "My Curriculum vitae",
@@ -35,20 +70,6 @@
     "text": "Dutch: mother tongue\nEnglish: good professional level\nGerman: good reading, listening and basic speaking (B1)"
   },
   {
-    "objectID": "freelance.html",
-    "href": "freelance.html",
-    "title": "Geert van Geest",
-    "section": "",
-    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
-  },
-  {
-    "objectID": "freelance.html#looking-for-help",
-    "href": "freelance.html#looking-for-help",
-    "title": "Geert van Geest",
-    "section": "",
-    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Geert van Geest",
@@ -61,27 +82,6 @@
     "title": "Geert van Geest",
     "section": "",
     "text": "Get a complete overview on my Google scholar profile or ORCiD.\nGeest, Geert van, Peter M Bourke, Roeland E Voorrips, Agnieszka Marasek-Ciolakowska, Yanlin Liao, Aike Post, Uulke van Meeteren, Richard GF Visser, Chris Maliepaard, and Paul Arens. An Ultra-Dense Integrated Linkage Map for Hexaploid Chrysanthemum Enables Multi-Allelic QTL Analysis. Theoretical and Applied Genetics 130 (2017): 2527–41.\nBourke, Peter M, Geert Van Geest, Roeland E Voorrips, Johannes Jansen, Twan Kranenburg, Arwa Shahin, Richard GF Visser, Paul Arens, Marinus JM Smulders, and Chris Maliepaard. polymapR—Linkage Analysis and Genetic Map Construction from F1 Populations of Outcrossing Polyploids. Bioinformatics 34, no. 20 (2018): 3496–3502.\nGeest, Geert van, Roeland E Voorrips, Danny Esselink, Aike Post, Richard GF Visser, and Paul Arens. Conclusive Evidence for Hexasomic Inheritance in Chrysanthemum Based on Analysis of a 183 k SNP Array. BMC Genomics 18 (2017): 1–12.\nBarreto de Albuquerque, Juliana, Lukas M Altenburger, Jun Abe, Diego von Werdt, Stefanie Wissmann, Jose Martínez Magdaleno, David Francisco, et al. Microbial Uptake in Oral Mucosa–Draining Lymph Nodes Leads to Rapid Release of Cytotoxic CD8+ T Cells Lacking a Gut-Homing Phenotype. Science Immunology 7, no. 72 (2022): eabf1861.\nDeng, Haibin, Yanyun Gao, Verdiana Trappetti, Damian Hertig, Darya Karatkevich, Tereza Losmanova, Christian Urzi, et al. Targeting Lactate Dehydrogenase B-Dependent Mitochondrial Metabolism Affects Tumor Initiating Cells and Inhibits Tumorigenesis of Non-Small Cell Lung Cancer by Inducing mtDNA Damage. Cellular and Molecular Life Sciences 79, no. 8 (2022): 445.\nWalter, Justin D, Melanie Scherer, Cedric AJ Hutter, Alisa A Garaeva, Iwan Zimmermann, Marianne Wyss, Jan Rheinberger, et al. Biparatopic Sybodies Neutralize SARS-CoV-2 Variants of Concern and Mitigate Drug Resistance. EMBO Reports 23, no. 4 (2022): e54199."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Geert van Geest",
-    "section": "",
-    "text": "Here are the courses I teach in a table. Of course they are all on glittr.org!\nAre you interested in (more) SIB courses, check out the course announcement page."
-  },
-  {
-    "objectID": "courses.html#courses-i-teach-and-their-material",
-    "href": "courses.html#courses-i-teach-and-their-material",
-    "title": "Geert van Geest",
-    "section": "",
-    "text": "Here are the courses I teach in a table. Of course they are all on glittr.org!\nAre you interested in (more) SIB courses, check out the course announcement page."
   },
   {
     "objectID": "index.html",
