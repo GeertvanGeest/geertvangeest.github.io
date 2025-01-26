@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://GeertvanGeest.github.io/geertvangeest.github.io/cv.html</loc>
-    <lastmod>2025-01-19T01:13:01.499Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GeertvanGeest.github.io/geertvangeest.github.io/index.html</loc>
-    <lastmod>2025-01-19T01:13:01.503Z</lastmod>
-  </url>
-  <url>
     <loc>https://GeertvanGeest.github.io/geertvangeest.github.io/courses.html</loc>
-    <lastmod>2025-01-19T01:13:01.499Z</lastmod>
+    <lastmod>2025-01-26T01:10:22.472Z</lastmod>
   </url>
   <url>
     <loc>https://GeertvanGeest.github.io/geertvangeest.github.io/publications.html</loc>
-    <lastmod>2025-01-19T01:13:01.503Z</lastmod>
-  </url>
-  <url>
-    <loc>https://GeertvanGeest.github.io/geertvangeest.github.io/about.html</loc>
-    <lastmod>2025-01-19T01:13:01.499Z</lastmod>
+    <lastmod>2025-01-26T01:10:22.475Z</lastmod>
   </url>
   <url>
     <loc>https://GeertvanGeest.github.io/geertvangeest.github.io/freelance.html</loc>
-    <lastmod>2025-01-19T01:13:01.500Z</lastmod>
+    <lastmod>2025-01-26T01:10:22.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GeertvanGeest.github.io/geertvangeest.github.io/about.html</loc>
+    <lastmod>2025-01-26T01:10:22.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GeertvanGeest.github.io/geertvangeest.github.io/cv.html</loc>
+    <lastmod>2025-01-26T01:10:22.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GeertvanGeest.github.io/geertvangeest.github.io/index.html</loc>
+    <lastmod>2025-01-26T01:10:22.475Z</lastmod>
   </url>
 </urlset>
