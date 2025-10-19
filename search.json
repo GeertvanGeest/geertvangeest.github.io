@@ -42,11 +42,11 @@
     "text": "Here are the courses I teach in a table. Of course they are all on glittr.org!\nAre you interested in (more) SIB courses, check out the course announcement page."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nice to meet youGeert van GeestBioinformatics analyst and educator",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Nice to meet youGeert van GeestBioinformatics analyst and educator\n\nWould you like to collaborate on projects related to bioinformatics or education?\n\nLet’s get in touch\n\nSince 2020 I am working as a bioinformatician at the Interfaculty Bioinformatics Unit in Bern, and as a bioinformatics trainer at the SIB Swiss Institute of Bioinformatics. You might also know me from glittr.org or my involvement in several initiatives related to training at ELIXIR. Every once in a while I also pick up projects at a freelance basis.\n\n\n\nMy work at Bern University\nAt the IBU I work in close collaboration with the Veterinary science faculty Vetsuisse to support several projects. These projects are related to dog cancer variant analysis, single cell transcriptomics and spatial transcriptomics. They are all projects in which we apply cutting-edge techniques to non-model organisms, like dogs, cats and cows.\n\n\nMy work at SIB\nAt the SIB Training group I teach courses on next generation sequencing (NGS), variant analysis, single cell transcriptomics and reproducible science. Find all my courses and their material at Courses. At SIB I am also involved in several project related to FAIR training. For example, I co-lead the FAIR training handbook initiative and I am the creator of Glittr.org, which was recently nominated as SIB Remarkable Output.\n\n\nPrevious experience\nBefore I moved to Bern in 2020, I did my masters and PhD at Wageningen University at the Plant Breeding research group. There, I developed tools for molecular breeding in chrysanthemum. Amongst others, I co-developed the package polymapR, a software package to create genetic linkage maps of outcrossing polyploids. After my PhD, I worked on molecular marker development for Deliflor Chrysanten B.V. a company specialized in developing new varieties of chrysanthemum."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "cv.html",
@@ -84,10 +84,10 @@
     "text": "Dutch: mother tongue\nEnglish: good professional level\nGerman: good reading, listening and basic speaking (B1)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nice to meet youGeert van GeestBioinformatics analyst and educator",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Nice to meet youGeert van GeestBioinformatics analyst and educator\n\nWould you like to collaborate on projects related to bioinformatics or education?\n\nLet’s get in touch\n\nSince 2020 I am working as a bioinformatician at the Interfaculty Bioinformatics Unit in Bern, and as a bioinformatics trainer at the SIB Swiss Institute of Bioinformatics. You might also know me from glittr.org or my involvement in several initiatives related to training at ELIXIR. Every once in a while I also pick up projects at a freelance basis.\n\n\n\nMy work at Bern University\nAt the IBU I work in close collaboration with the Veterinary science faculty Vetsuisse to support several projects. These projects are related to dog cancer variant analysis, single cell transcriptomics and spatial transcriptomics. They are all projects in which we apply cutting-edge techniques to non-model organisms, like dogs, cats and cows.\n\n\nMy work at SIB\nAt the SIB Training group I teach courses on next generation sequencing (NGS), variant analysis, single cell transcriptomics and reproducible science. Find all my courses and their material at Courses. At SIB I am also involved in several project related to FAIR training. For example, I co-lead the FAIR training handbook initiative and I am the creator of Glittr.org, which was recently nominated as SIB Remarkable Output.\n\n\nPrevious experience\nBefore I moved to Bern in 2020, I did my masters and PhD at Wageningen University at the Plant Breeding research group. There, I developed tools for molecular breeding in chrysanthemum. Amongst others, I co-developed the package polymapR, a software package to create genetic linkage maps of outcrossing polyploids. After my PhD, I worked on molecular marker development for Deliflor Chrysanten B.V. a company specialized in developing new varieties of chrysanthemum."
   }
 ]
