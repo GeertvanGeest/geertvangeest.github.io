@@ -35,6 +35,20 @@
     "text": "Here are the courses I teach in a table. Of course they are all on glittr.org!\nAre you interested in (more) SIB courses, check out the course announcement page."
   },
   {
+    "objectID": "freelance.html",
+    "href": "freelance.html",
+    "title": "Geert van Geest",
+    "section": "",
+    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
+  },
+  {
+    "objectID": "freelance.html#looking-for-help",
+    "href": "freelance.html#looking-for-help",
+    "title": "Geert van Geest",
+    "section": "",
+    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "My Curriculum vitae",
@@ -75,19 +89,5 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "freelance.html",
-    "href": "freelance.html",
-    "title": "Geert van Geest",
-    "section": "",
-    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
-  },
-  {
-    "objectID": "freelance.html#looking-for-help",
-    "href": "freelance.html#looking-for-help",
-    "title": "Geert van Geest",
-    "section": "",
-    "text": "In addition to my work at UniBe and SIB I am helping several companies and institutes with their bioinformatics questions. If you are interested to work with me, let’s talk! Send me an e-mail at geert@vangeestconsultancy.com"
   }
 ]
