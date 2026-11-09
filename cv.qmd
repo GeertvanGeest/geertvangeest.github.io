@@ -4,9 +4,13 @@ Get a full idea of my CV through my [linkedin profile](https://www.linkedin.com/
 
 ## Work experience
 
+### Training Project Manager at SIB – Swiss Institute of Bioinformatics
+
+Since March 2025 I am working as a Training Project Manager at the [SIB Swiss Institute of Bioinformatics](https://www.sib.swiss), where I am responsible for the development and implementation of training in a wide range of topics and projects. 
+
 ### Staff scientist at Universität Bern (50%)
 
-#### July 2020 – Current
+#### July 2020 – March 2025
 
 Wide range of bioinformatics projects, including (but not limited to):
 
@@ -21,7 +25,7 @@ Strong involvement of customer in projects, working according to agile principle
 
 ### Trainer at SIB – Swiss Institute of Bioinformatics (50%)
 
-#### July 2020 – Current 
+#### July 2020 – March 2025
 
 Responsible for design and teaching of courses related to omics and reproducible analysis:
 
@@ -35,7 +39,7 @@ Promotor of Open and FAIR in data and training. Amongst others by using and prom
 
 ### Consultant (freelance)
 
-#### January 2021 – Current
+#### January 2021 – December 2025
 
 Different consultancy projects in bioinformatics and data analysis: pipeline development, long read sequencing analysis and oligo design. 
 
